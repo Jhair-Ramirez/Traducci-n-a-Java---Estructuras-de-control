@@ -4,6 +4,7 @@ package edadpersona;
 import java.util.Scanner;
 
 // Jhair Alfredo Ramirez Aguilar
+
 public class EdadPersona {
 
     
