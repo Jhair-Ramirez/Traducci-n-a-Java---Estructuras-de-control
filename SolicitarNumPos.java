@@ -3,6 +3,7 @@ package solicitarnumpos;
 
 import java.util.Scanner;
 
+// Jhair Alfredo Ramirez Aguilar
 
 public class SolicitarNumPos {
 
