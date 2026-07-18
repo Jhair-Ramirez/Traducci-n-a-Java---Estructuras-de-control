@@ -4,7 +4,7 @@ package tablademulti;
 import java.util.Scanner;
 
 
- //* @author ASUS
+ // Jhair Alfredo Ramirez Aguilar
 
 public class TablaDeMulti {
 
