@@ -3,7 +3,7 @@ package solicitarclificacion;
 
 import java.util.Scanner;
 
-// Jhair Alfredo Ramirez Aguilar
+// @author Jhair Alfredo Ramirez Aguilar
 
 public class SolicitarClificacion {
 
