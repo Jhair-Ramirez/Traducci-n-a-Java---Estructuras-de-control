@@ -3,7 +3,7 @@ package mostrardia;
 
 import java.util.Scanner;
 
-// Jhair Alfredo Ramirez Aguilar
+// @autho Jhair Alfredo Ramirez Aguilar
 
 public class MostrarDia {
 
