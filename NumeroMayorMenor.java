@@ -4,7 +4,7 @@ package numeromayormenor;
 import java.util.Scanner;
 
 
- // @author ASUS
+ // Jhair Alfredo Ramirez Aguilar
  
 public class NumeroMayorMenor {
 
